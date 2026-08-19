@@ -1,0 +1,2 @@
+# Konwerter-walut-dla-podatnik-w-projekt-PowerBI-
+Projekt ma na celu usprawnienie rozliczeń podatkowych dla niektórych polskich podatników (np. mających obowiązek wypełnienia PIT-38 i rozliczających się ze sprzedaży instrumentów finansowych u zagranicznego brokera), którzy muszą przeliczać waluty zagraniczne na PLN zgodnie z kursem średnim z poprzedniego dnia roboczego dostępnym na stronie NBP.
