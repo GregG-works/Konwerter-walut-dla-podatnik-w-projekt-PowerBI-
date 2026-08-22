@@ -1,6 +1,8 @@
 # Konwerter-walut-dla-podatnik-w-projekt-PowerBI-
 Projekt ma na celu usprawnienie rozliczeń podatkowych dla polskich podatników, którzy rozliczają przychody w walutach obcych (np. mających obowiązek wypełnienia PIT-38 i rozliczających się z sprzedaży instrumentów finansowych u zagranicznego brokera) i muszą przeliczać je na złote (PLN) według kursu średniego ogłaszanego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego dzień uzyskania przychodu/poniesienia kosztu. Szczegółowy opis dot. przeliczania walut obcych na złote w wymienionych przypadkach można znaleźć w Art. 11a Ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (dokument dostępny na stronie sejmu RP).
 
+Projekt wykorzystuje możliwości automatyzacji Power BI, co zapewnia łatwość i szybkość przeliczania wartości z walut obcych na złote.
+
 ## INSTRUKCJA UŻYTKOWANIA
 ### Wymagania
 Do poprawnego działania projektu wymagane są zainstalowane na komputerze programy MS Excel oraz Power BI Desktop.
