@@ -28,4 +28,4 @@ Możesz teraz przeglądać dane z tabeli oraz wybierać filtry ('Data', 'Waluta'
 Możesz aktualizować swoją tabelę w pliku 'Your table', dodając nowe wiersze, lub wstawić nową tabelę pod tą samą nazwą. Za każdym razem, gdy wprowadzasz nowe dane (np. dopisując nowe rekordy z nowszymi datami), pamiętaj, aby w pliku projektu (będąc w widoku 'Report view') kliknąć 'Refresh' w zakładce 'Home' w sekcji 'Queries'. Spowoduje to aktualizację danych projektu i pobranie nowych danych ze strony NBP, dotyczących kursów walut (wymagane połączenie z internetem).
 
 ### Ostrzeżenie
-Projekt jest jedynie narzędziem POMOCNICZYM i jego autor nie ponosi odpowiedzialności za jakiekolwiek nieprawidłowości powstałe w skutek jego użytkowania.
+Projekt jest jedynie narzędziem POMOCNICZYM i jego autor nie ponosi odpowiedzialności za jakiekolwiek nieprawidłowości powstałe wskutek jego użytkowania.
