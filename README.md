@@ -24,7 +24,7 @@ Ostatnim krokiem jest zmiana nazwy folderu z projektem. Przypomnijmy, że floder
 ### Użytkowanie
 Możesz teraz przeglądać dane z tabeli oraz wybierać filtry ('Data', 'Waluta' i 'Typ' w wersji polskiej lub 'Date', 'Currency' i 'Type' w wersji angielskiej), dostępne po prawej stronie. W prawym dolnym rogu pojawi się całkowita wartość w PLN z ostatniej kolumny tabeli po zastosowaniu filtrów. Możesz sprawdzić, jak zmienia się ta wartość ustalając różne przedziały dat, waluty lub typ (transakcji).
 
-Możesz aktualizować swoją tabelę w pliku 'Your table', dodając nowe wiersze, lub wstawić nową tabelę pod tą samą nazwą. Za każdym razem, gdy wprowadzasz nowe dane (np. dopisując nowe rekordy z nowszymi datami), pamiętaj, aby w pliku projketu kliknąć 'Refresh' w zakładce 'Home' (będąc w widoku 'Report view'). Spowoduje to pobranie nowych danych ze strony NBP, dotyczących kursów walut.
+Możesz aktualizować swoją tabelę w pliku 'Your table', dodając nowe wiersze, lub wstawić nową tabelę pod tą samą nazwą. Za każdym razem, gdy wprowadzasz nowe dane (np. dopisując nowe rekordy z nowszymi datami), pamiętaj, aby w pliku projektu (będąc w widoku 'Report view') kliknąć 'Refresh' w zakładce 'Home' w sekcji 'Queries'. Spowoduje to aktualizację danych projektu i pobranie nowych danych ze strony NBP, dotyczących kursów walut (wymagane połączenie z internetem).
 
 ### Ostrzeżenie
 Projekt jest jedynie narzędziem POMOCNICZYM i jego autor nie ponosi odpowiedzialności za jakiekolwiek nieprawidłowości powstałe w skutek jego użytkowania.
